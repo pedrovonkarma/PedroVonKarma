@@ -1,4 +1,6 @@
-### Greetings, sunshine! 👋
+<p align = "center" >
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img style="width:670px" src="https://readme-typing-svg.herokuapp.com?lines=✋+Greetings+,+traveller+!&center=true&title_color=79c0ff"></a>
+</p> 
 
 ## I am a novice technician trying to get big!
 - ✍ You can find my projects here on my profile
