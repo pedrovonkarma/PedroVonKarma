@@ -29,18 +29,16 @@ heeypedroo@gmail.com
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Pedro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroVonKarma&show_icons=true&hide_border=true" />
 
-</details>
+  <img align="left" alt="Pedro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroVonKarma&show_icons=true&theme=radical&count_private=true" />
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVonKarma" />
 
-</details>
+
+
+<img align="left" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVonKarma&theme=radical" />
+
+
 
 
