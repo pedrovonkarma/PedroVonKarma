@@ -34,13 +34,13 @@ heeypedroo@gmail.com
 <br />
 
 <div style='align-items:center; display:flex; justify-content:center;'>
-  <img align="left" alt="Pedro's GitHub Stats" src="https://github-stats.vercel.app/api?username=PedroVonKarma&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" alt="Pedro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PedroVonKarma&show_icons=true&theme=radical&count_private=true" />
 
 
 
 
 
-<img align="left" alt="Pedro's GitHub Top Languages" src="https://github-stats.vercel.app/api/top-langs/?username=PedroVonKarma&theme=radical" />
+<img align="left" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVonKarma&theme=radical" />
 </div>
 
 
