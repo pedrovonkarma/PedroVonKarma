@@ -45,13 +45,13 @@
 <br />
 
 <div style='align-items:center; display:flex; justify-content:center;'>
-  <img align="left" alt="Pedro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedrovonkarma&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" alt="Pedro's GitHub Stats" src="https://github-readme-stats-five-xi-76.vercel.app/api?username=pedrovonkarma&show_icons=true&theme=radical&count_private=true" />
 
 
 
 
 
-<img align="left" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovonkarma&theme=radical" />
+<img align="left" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats-five-xi-76.vercel.app/api/top-langs/?username=pedrovonkarma&theme=radical" />
 </div>
 
 
